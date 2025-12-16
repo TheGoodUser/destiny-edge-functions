@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "@interface/": "./interface/",
+    "@services/": "./services/"
+  }
+}
