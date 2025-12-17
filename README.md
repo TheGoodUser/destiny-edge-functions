@@ -135,7 +135,7 @@ This function is intended to run as a scheduled job (cron) to reset swipe counts
 ---
 
 ## Project structure
-
+ 
 - `*/supabase/functions/*/index.ts` — entry points for each function
 - `*/services/*` — service helpers that interact with Supabase and external APIs
 - `*/interface/*` — TypeScript interfaces and models used across functions
